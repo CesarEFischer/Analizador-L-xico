@@ -1,0 +1,5 @@
+E->TEp;
+Ep->+Ep|-TEp|epsilon;
+T->*FTp;
+Tp->FTp|/FTp|epsilon;
+F->(E)|SIN(E)|num;
